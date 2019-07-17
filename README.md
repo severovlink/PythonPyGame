@@ -1,4 +1,4 @@
 Test Module PyGame
 ======
 
-Created simple desctop application 
+Created simple desktop application 
